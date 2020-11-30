@@ -47,16 +47,6 @@ npm run dev
 npm run server
 ```
 
-## Build & Deploy
-
-```
-# Create frontend prod build
-cd frontend
-npm run build
-```
-
-There is a Heroku postbuild script, so if you push to Heroku, no need to build manually for deployment to Heroku
-
 ### Seed Database
 
 You can use the following commands to seed the database with some sample users and products as well as destroy all data
